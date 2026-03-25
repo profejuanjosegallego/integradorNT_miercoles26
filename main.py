@@ -1,0 +1,3 @@
+from utils.serviciosVeterinariosSimulados import simular_servicios_vetereniarios
+
+print(simular_servicios_vetereniarios(1))
